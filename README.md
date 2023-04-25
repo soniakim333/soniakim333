@@ -2,9 +2,9 @@
 
 <p align="center" >
   <samp>
-    My name is <em>Yun Wei</em>. I am a postgraduate student in University of Galway majoring in Information Syetem Management
+   <br/>  My name is <em>Yun Wei</em>. I am a postgraduate student in University of Galway majoring in Information Syetem Management<br/> 
   <br/> Python and C/C++ enthusiast; Data Science Lover. AI in graph-tech addict. 
-    <br/> (<em>ex</em>)Job seeker.
+    <br/> Job seeker.
       <br/>
 Piano, Violin, Tennis and Programming fill in my active daily life;
           <br/>
