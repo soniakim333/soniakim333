@@ -2,20 +2,19 @@
 
 <p align="center" >
   <samp>
-
-    My name is <em>Yun Wei</em>. 
-    <br/> I am a postgraduate student in University of Galway majoring in Information Syetem Management
+    My name is <em>Yun Wei</em>. I am a postgraduate student in University of Galway majoring in Information Syetem Management
   <br/> Python and C/C++ enthusiast; Data Science Lover. AI in graph-tech addict. 
     <br/> (<em>ex</em>)Job seeker.
       <br/>
-Piano, Violin, Tennis and Programming fill in my active daily life
+Piano, Violin, Tennis and Programming fill in my active daily life;
           <br/>
-continuously learning, wanting to help the weak
+continuously learning, wanting to help the waek
   </samp>
   <br/>
   <br/>
   <br/>
 </p>
+
 
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
