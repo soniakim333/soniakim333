@@ -2,8 +2,8 @@
 
 <p align="center" >
   <samp>
-    <p align="center" >
-    <h1>My name is <em>Yun Wei</em></h1>. 
+
+    My name is <em>Yun Wei</em>. 
     <br/> I am a postgraduate student in University of Galway majoring in Information Syetem Management
   <br/> Python and C/C++ enthusiast; Data Science Lover. AI in graph-tech addict. 
     <br/> (<em>ex</em>)Job seeker.
