@@ -4,12 +4,12 @@
   <samp>
      My name is <em>Yun Wei</em>.
       <br/>I am a postgraduate student in University of Galway majoring in Information Syetem Management
-        <br/> Python and C/C++ enthusiast; Data Science Lover. AI in graph-tech addict. 
+        <br/> Python and C enthusiast; Full-stack Website development Lover. 
         <br/> Job seeker.
           <br/>
-              Piano, Violin, Tennis and Programming fill in my active daily life;
+              Programming, Piano, Violin, Tennis and Singing fill in my active daily life;
              <br/>
-                 continuously learning, wanting to help the waek
+                 continuously learning, wanting to help the weak
   </samp>
   <br/>
   <br/>
