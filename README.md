@@ -37,8 +37,8 @@
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything related to my interets, I am really a talkative person, happy to learning, listen and share
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
-  <a href="[https://twitter.com/naiman_alex](https://twitter.com/weiyun18884992](https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg)">
-    <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/twitter.svg" height="35px" style="margin: 5px;" />
+  <a href="">
+    <img src="[https://twitter.com/naiman_alex](https://twitter.com/weiyun18884992](https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg)" height="35px" style="margin: 5px;" />
   </a>
   <a href="https://www.instagram.com/alex.naiman.4/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
