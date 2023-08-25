@@ -78,7 +78,7 @@
 ```text
 Date: 01 January, 2023 - 25 August, 2023
 
-JavaScript     50 hrs         ████░░░░░░░░░░░░░░░░░░░░░  09.52 % 
+JavaScript     50 hrs         ████░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 React          130 hrs        ████████████████░░░░░░░░░   24.76 % 
 Vue            80 hrs         ███████░░░░░░░░░░░░░░░░░░   15.24 % 
 Node           100 hrs        ████████░░░░░░░░░░░░░░░░░   19.05 % 
@@ -90,7 +90,7 @@ Sql/MongoDB    20 hrs         █░░░░░░░░░░░░░░░�
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexnaiman&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakiim333&theme=draculat&show_icons=true" />
 
 <img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexnaiman&theme=tokyonight&show_icons=true" />
 
