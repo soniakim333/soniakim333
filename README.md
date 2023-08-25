@@ -90,9 +90,9 @@ Sql/MongoDB    20 hrs         █░░░░░░░░░░░░░░░�
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakim333&theme=Customizing stats card&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=soniakim333&theme=synthwave&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakim333&theme=draculat&show_icons=true" />
+<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soniakim333&theme=synthwave&show_icons=true" />
 
 </p>
 
