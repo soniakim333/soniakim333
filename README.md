@@ -38,7 +38,7 @@
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach me: ...
 <p align="center">
   <a href="https://twitter.com/weiyun18884992">
-    <img src="[https://twitter.com/naiman_alex](https://twitter.com/weiyun18884992](https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1.jpg)" height="35px" style="margin: 5px;" />
+    <img src="https://github.com/soniakim333/soniakim333/blob/main/Outlook.png" height="35px" style="margin: 5px;" />
   </a>
   <a href="https://www.instagram.com/soniakim333/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
