@@ -43,7 +43,7 @@
   <a href="https://www.instagram.com/soniakim333/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/%E6%98%80-%E9%AD%8F-92243924a/">
+  <a href="https://www.linkedin.com/in/yun-wei/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:weiyun_luck@outlook.com">
